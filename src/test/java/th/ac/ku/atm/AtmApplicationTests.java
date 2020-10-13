@@ -1,10 +1,10 @@
-package th.ac.ku.BankAccount;
+package th.ac.ku.atm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BankAccountApplicationTests {
+class AtmApplicationTests {
 
 	@Test
 	void contextLoads() {
